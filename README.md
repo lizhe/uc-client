@@ -10,7 +10,7 @@ Ucenter Client API For Laravel 5
 
 # 安装
     
-    composer require lizhe/uc-client dev-master
+    composer require lizhe/uc-client
     
 安装完成后，在`app/config/app.php`返回的数组的`providers`键加入：
 
